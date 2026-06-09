@@ -101,3 +101,8 @@
 #     print("It is a palindromw.")
 # else:
 #     print("It is not a palindrome.")
+
+#Store the above value in a list and sort it
+# list = ["C", "D", "A", "A", "B", "B", "A"]
+# list.sort()
+# print(list)

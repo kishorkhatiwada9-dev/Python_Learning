@@ -9,11 +9,4 @@
 # tup1 = tup.count("A")
 # print(tup1)
 
-# list = list(tup1())
-# list.sort()
-# print(list)
 
-#Store the above value in a list and sort it
-# list = ["C", "D", "A", "A", "B", "B", "A"]
-# list.sort()
-# print(list)
