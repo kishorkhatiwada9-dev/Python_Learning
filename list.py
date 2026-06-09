@@ -101,5 +101,3 @@
 #     print("It is a palindromw.")
 # else:
 #     print("It is not a palindrome.")
-
-#jsbbshcj
